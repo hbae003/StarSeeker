@@ -1,4 +1,4 @@
-# Airline Application Database Project
+# StarSeeker
 
 This is the final project for CS122A at University of Califonia, Riverside.
 
