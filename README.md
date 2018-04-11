@@ -14,7 +14,7 @@ The Star Seeker is a laser mount inspired by the equatorial Goto mount used by t
 5. After 15 seconds passes, the base moves until the the gyroscope finds the degree where RA = 0 hours.
 6. After the gyroscope calibrates, choose any constellation from the LCD screen.
 
-**Note: At any point, pressing START puts the system into manual mode. To exit, realign the laser until the declination is 90 degrees and press START again.
+**Note: At any point, pressing START puts the system into manual mode. To exit, realign the laser until the declination is 90 degrees and press START again.**
 
 ## Components Used
 
