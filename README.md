@@ -25,16 +25,20 @@ The Star Seeker is a laser mount inspired by the equatorial Goto mount used by t
 * MPU6050 - Provides information to the arduino in yaw, pitch, and roll degrees. 
 * LCD Screen - Allows the user to select an object to find. 
 
-## Demo
-A video demo of the project can be found [![here.](http://img.youtube.com/vi/mrKWNr8jOBU&t/0.jpg)](http://www.youtube.com/watch?v=mrKWNr8jOBU&t)
-
 ## Connection
-<img src='https://github.com/hbae003/StarSeeker/Connection.jpg' title='' width='' alt='' />
+
+![star](/Connection.png)
+
+## Demo
+
+A video demo of the project can be found [![here.](http://img.youtube.com/vi/mrKWNr8jOBU&t/0.jpg)](http://www.youtube.com/watch?v=mrKWNr8jOBU&t)
 
 ## References 
 
-[Star Track] (http://www.instructables.com/id/Star-Track-Arduino-Powered-Star-Pointer-and-Tracke/?ALLSTEPS)- Most of the information needed for this project was found here. The code for Arduino is very similar but a different MPU6050 library was used. The RTC library contains example code that was used in the main arduino code. The model for the 3D print was also taken from this site. 
-[NES Controller Code] (http://forum.arduino.cc/index.php?topic=8481.0)- The controller_read loop was turned into a state machine. 
-[MPU6050 Library] (https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050)- Provided by Jeff Rowberg.
-[RTC Library] (https://www.virtuabotix.com/virtuabotix-ds1302-real-time-clock-module-pin-out-coding-guide/)- Provided by Virtualbotix
-[LST] (http://www.stargazing.net/kepler/altaz.html)- The calculations needed to find Local Sidereal Time can be found here
+[Star Track](http://www.instructables.com/id/Star-Track-Arduino-Powered-Star-Pointer-and-Tracke/?ALLSTEPS) - Most of the information needed for this project was found here. The code for Arduino is very similar but a different MPU6050 library was used. The RTC library contains example code that was used in the main arduino code. The model for the 3D print was also taken from this site. 
+
+[NES Controller Code](http://forum.arduino.cc/index.php?topic=8481.0) - The controller_read loop was turned into a state machine. 
+
+[MPU6050 Library](https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050) - Provided by Jeff Rowberg.
+
+[LST](http://www.stargazing.net/kepler/altaz.html) - The calculations needed to find Local Sidereal Time can be found here
