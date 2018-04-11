@@ -25,4 +25,5 @@ The Star Seeker is a laser mount inspired by the equatorial Goto mount used by t
 * MPU6050 - Provides information to the arduino in yaw, pitch, and roll degrees. 
 * LCD Screen - Allows the user to select an object to find. 
 
-[![Video Demo](http://img.youtube.com/vi/mrKWNr8jOBU&t/0.jpg)](http://www.youtube.com/watch?v=mrKWNr8jOBU&t)
+## Demo
+A video demo of the project can be found [![here.](http://img.youtube.com/vi/mrKWNr8jOBU&t/0.jpg)](http://www.youtube.com/watch?v=mrKWNr8jOBU&t)
